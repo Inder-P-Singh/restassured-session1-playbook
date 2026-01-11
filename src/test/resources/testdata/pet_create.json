@@ -1,0 +1,18 @@
+{
+  "id": {{id}},
+  "category": {
+    "id": 0,
+    "name": "Dogs"
+  },
+  "name": "{{name}}",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "vaccinated"
+    }
+  ],
+  "status": "{{status}}"
+}
