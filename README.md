@@ -1,6 +1,6 @@
 # REST Assured Session 1 Playbook: Fundamentals
 
-This project provides a hands-on introduction to REST Assured with a Behavior-Driven Development (BDD) style for testing REST APIs. It's designed to be a runnable project for training sessions and a reusable asset for API test automation.
+This project provides a hands-on introduction to REST Assured with a Behavior-Driven Development (BDD) style for testing REST APIs. It's designed to be a runnable project for training sessions and a reusable asset for API test automation. View the running playbook in [REST Assured tutorial](https://youtu.be/yVttAVeNbVE) video.
 
 **API Under Test:** [Swagger PetStore API](https://petstore.swagger.io/v2)
 
